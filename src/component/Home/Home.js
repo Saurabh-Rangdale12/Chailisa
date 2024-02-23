@@ -2,6 +2,7 @@ const Home =()=>{
     return (
         <>
         <p>home</p>
+        <p>Welcome</p>
         </>
     );
 };
